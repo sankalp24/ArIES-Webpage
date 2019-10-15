@@ -1193,6 +1193,7 @@ h6 {
   padding: 0 0 30px 0;
   color: #eee;
   font-size: 14px;
+  
 }
 
 #footer .footer-top {
@@ -1206,7 +1207,7 @@ h6 {
 
 #footer .footer-top .footer-info h3 {
   font-size: 68px;
-  margin: 0 50px 20px 0;
+  margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
   font-family: "Montserrat", sans-serif;
@@ -1281,7 +1282,7 @@ h6 {
 
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
-  padding-left: 350px;
+  padding-right: 50px;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1308,6 +1309,9 @@ h6 {
   transition: 0.3s;
   cursor: pointer;
 }
+#test {
+  padding-right: 50px;
+}
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
   background: #0062cc;
@@ -1326,6 +1330,10 @@ h6 {
 
 #footer .credits a {
   color: #bfddfe;
+}
+
+.sankalp{
+  font-size: 65px;
 }
 
 #footer .credits a:hover {
