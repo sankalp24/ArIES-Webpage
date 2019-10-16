@@ -1435,14 +1435,14 @@ h6 {
     font-weight: 500;
 }
 .a1{
-  position: static;
+  position: relative;
   padding-left: 380px;
   padding-bottom: 20px;
   padding-top: 20px;
 }
 
 .a2{
-  position: static;
+  position: relative;
   padding-left: 430px;
 }
 
